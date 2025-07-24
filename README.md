@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm ACoderOrHacker <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&background=FFFFFF&width=435&lines=I+love+D+programming+language+forever)](https://git.io/typing-svg)
 
-<!--
-**ACoderOrHacker/ACoderOrHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [ox](https://github.com/ACoderOrHacker/ox)
 
-Here are some ideas to get you started:
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=ACoderOrHacker&repo=ox.termcolor)](https://github.com/ACoderOrHacker/ox.termcolor)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=ACoderOrHacker&repo=ox.stacktrace)](https://github.com/ACoderOrHacker/ox.stacktrace)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [shit](https://github.com/ACoderOrHacker/shit)
+
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=ACoderOrHacker&repo=shit)](https://github.com/ACoderOrHacker/shit)
+
+![ACoderOrHacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACoderOrHacker)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ACoderOrHacker)
