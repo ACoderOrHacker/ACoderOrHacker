@@ -1,6 +1,8 @@
 ## Hi there, I'm ACoderOrHacker <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&background=FFFFFF&width=435&lines=I+love+D+programming+language+forever)](https://git.io/typing-svg)
 
+![](wallpaper.png)
+
 ## [ox](https://github.com/ACoderOrHacker/ox)
 
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=ACoderOrHacker&repo=ox.termcolor)](https://github.com/ACoderOrHacker/ox.termcolor)
