@@ -8,7 +8,7 @@
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=ACoderOrHacker&repo=ox.termcolor)](https://github.com/ACoderOrHacker/ox.termcolor)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=ACoderOrHacker&repo=ox.stacktrace)](https://github.com/ACoderOrHacker/ox.stacktrace)
 
-## [shit](https://github.com/ACoderOrHacker/shit)
+## [shit](https://github.com/ACoderOrHacker.github.io/shit)
 
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=ACoderOrHacker&repo=shit)](https://github.com/ACoderOrHacker/shit)
 
